@@ -29,7 +29,7 @@ const html = `<!DOCTYPE html>
 </head>
 <body>
   <div class="card">
-    <h1>Hello World 👋</h1>
+    <h1>Hello World</h1>
     <p>Deployed automatically with Ansible</p>
     <p>Server: ${require('os').hostname()}</p>
   </div>
